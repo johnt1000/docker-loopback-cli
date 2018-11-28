@@ -55,4 +55,4 @@ this one. It is designed to be used both as a throw away container (mount your s
 the container to start your app), as well as the base to build other images off of.
 
 # License
-View [license information](https://github.com/johnt1000/docker-lumen/blob/master/LICENSE) for the software contained in this image.
+View [license information](https://github.com/johnt1000/docker-loopback-cli/blob/master/LICENSE) for the software contained in this image.
