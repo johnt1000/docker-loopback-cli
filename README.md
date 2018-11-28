@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`2.1.1-alpine`(*loopback-cli-2.1.1-alpine/Dockerfile*)](https://github.com/johnt1000/docker-loopback-cli/blob/loopback-cli-2.1.1/Dockerfile)
+- [`5.0.0-alpine`(*loopback-cli-5.0.0-alpine/Dockerfile*)](https://github.com/johnt1000/docker-loopback-cli/blob/loopback-cli-5.0.0/Dockerfile)
 
 # About
 
